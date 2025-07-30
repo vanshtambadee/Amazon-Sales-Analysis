@@ -13,15 +13,15 @@ Enabled interactive exploration of KPIs for stakeholders.
 Designed and developed an interactive Power BI dashboard to analyze Amazon sales data, tracking key metrics such as total revenue, units sold, and profit across regions and categories. Implemented DAX measures and Power Query transformations to calculate KPIs, monthly trends, and top-selling products with dynamic slicers for user-driven exploration. 
 Improved decision-making efficiency by enabling data-driven insights through visual storytelling, leading to faster identification of sales trends and regional performance gaps.
 
-# 📦 Amazon Sales Analysis – Power BI Data Analytics Project
+ Amazon Sales Analysis – Power BI Data Analytics Project
 
-## 📌 Overview
+##  Overview
 
 This project uses Power BI to analyze Amazon sales data and extract actionable insights through a fully interactive dashboard. The aim was to visualize and monitor sales performance, identify trends, and support data-driven business decisions.
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 
 > How can Amazon's sales data be used to uncover key trends, best-performing categories, and customer behavior across time and location?
 
@@ -34,14 +34,7 @@ This project uses Power BI to analyze Amazon sales data and extract actionable i
 
 ---
 
-## 📂 Dataset
-
-* **Size**: \~50,000+ sales records
-* **Fields**: Order ID, Product, Category, Order Date, Quantity Ordered, Price, City, State, Region, Total Sales
-
----
-
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 * **Power BI Desktop**
 
@@ -54,7 +47,7 @@ This project uses Power BI to analyze Amazon sales data and extract actionable i
 
 ---
 
-## 📊 Process
+##  Process
 
 ### 1. Data Preparation
 
